@@ -6,3 +6,4 @@ This tutorial is originally from Eric Matthes' excellent *Python Crash Course* b
 
 - Lesson 1:  Set up game files, create game settings, write the ship class, and import ship.bmp. Refactor code at the end.
 - Lesson 2:  Add left and right continuous movement for the ship, boundary checking for the ship. Refactor code again.
+- Lesson 3:  Add bullets, limit bullets to three, delete bullets when they leave the screen. Refactor code.
