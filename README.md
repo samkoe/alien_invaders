@@ -9,3 +9,5 @@ This tutorial is originally from Eric Matthes' excellent *Python Crash Course* b
 - Lesson 3:  Add bullets, limit bullets to three, delete bullets when they leave the screen. Refactor code.
 - Lesson 4:  Add alien fleet. Refactor code.
 - Lesson 5:  Move alien fleet, add boundary checking, set up bullet-alien collision testing, repopulate fleet when destroyed. Refactor code.
+- Lesson 6:  (Missing)
+- Lesson 7: Finished project
